@@ -2,21 +2,7 @@
 
 <h1 align="center">Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Wenhao here.</h1>
 
-<!--
-**wenhao728/wenhao728** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<p align='center'>
 <!-- https://shields.io/badges/static-badge
 https://simpleicons.org/ -->
 <!-- <a href="https://www.linkedin.com/in/wenhao-sun">
@@ -31,13 +17,20 @@ https://simpleicons.org/ -->
 <img src="https://img.shields.io/badge/Wenhao_Sun-FF0000?&style=flat&logo=youtube&logoColor=white"></a> -->
 <!-- <a  href="https://space.bilibili.com/">
 <img src="https://img.shields.io/badge/Wenhao_Sun-00A1D6?&style=flat&logo=bilibili&logoColor=white"></a> -->
-
+</p>
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
 - 🔭 I am currently a student at [**NTU**](https://www.ntu.edu.sg/scse) in Singapore.
 - 🌱 I am currently learning **3D** and **video generation**.
 - 📍 I worked at **Alibaba** as a **Data Scientist** from 2019 to 2023.
+
+### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> Prefered Tools
+<img width="32px" src="assets/icons/python.svg">
+<img width="32px" src="assets/icons/R.svg">
+<img width="32px" src="assets/icons/pytorch.svg">
+<img width="32px" src="assets/icons/huggingface.svg">
+<img width="32px" src="assets/icons/vscode.svg">
 
 ---
 
