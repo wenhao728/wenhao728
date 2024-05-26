@@ -5,10 +5,10 @@
 <p align='center'>
 <!-- https://shields.io/badges/static-badge
 https://simpleicons.org/ -->
+<a  href="wenhao006@ntu.edu.sg">
+<img src="https://img.shields.io/badge/wenhao006@ntu.edu.sg-0078D4?&style=flat&logo=microsoftoutlook&logoColor=white"></a>
 <a  href="sunw728@gmail.com">
 <img src="https://img.shields.io/badge/sunw728@gmail.com-EA4335?&style=flat&logo=gmail&logoColor=white"></a>
-<!-- <a  href="wenhao006@ntu.edu.sg">
-<img src="https://img.shields.io/badge/wenhao006@ntu.edu.sg-0078D4?&style=flat&logo=microsoftoutlook&logoColor=white"></a> -->
 <a href="https://www.linkedin.com/in/wenhao-sun">
 <img src="https://img.shields.io/badge/Wenhao SUN-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"></a>
 <a href="https://wenhao728.github.io/">
@@ -22,15 +22,16 @@ https://simpleicons.org/ -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
 - 🔭 I am currently a student at [**Ali-NTU Singapore JRI**](https://www.ntu.edu.sg/alibaba-ntu-jri).
-- 🌱 I am currently learning **3D** and **video generation**.
+- 🌱 I am currently working on **video generation** and **video editing**.
 - 📍 I worked at **Alibaba** as a **Data Scientist** from 2019 to 2023.
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> Prefered Tools
-<img width="32px" src="assets/icons/python.svg"> <img width="32px" src="assets/icons/R.svg"> <img width="32px" src="assets/icons/pytorch.svg"> <img width="32px" src="assets/icons/huggingface.svg"> <img width="32px" src="assets/icons/vscode.svg">
+<img width="32px" src="assets/icons/python.svg"> <img width="32px" src="assets/icons/pytorch.svg"> <img width="32px" src="assets/icons/huggingface.svg"> <img width="32px" src="assets/icons/vscode.svg">
+<!-- <img width="32px" src="assets/icons/R.svg">  -->
+
+<!-- ---
+
+<img src="https://github-readme-stats.vercel.app/api?username=wenhao728&theme=tokyonight&show_icons=true&hide=prs" href="Wenhao's GitHub stats"> -->
 
 ---
-
-<img src="https://github-readme-stats.vercel.app/api?username=wenhao728&theme=tokyonight&show_icons=true&hide=prs" href="Wenhao's GitHub stats">
-
----
-Last Edited on: 21/01/2024
+Last Edited on: 26/05/2024
