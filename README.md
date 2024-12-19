@@ -21,7 +21,7 @@ https://simpleicons.org/ -->
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
-- 🔭 I am currently a student at [**Ali-NTU Singapore JRI**](https://www.ntu.edu.sg/alibaba-ntu-jri).
+- 🔭 I am currently a student at [**College of Computing and Data Science (CCDS)**](https://www.ntu.edu.sg/computing), NTU.
 - 🌱 I am currently working on **video generation** and **video editing**.
 - 📍 I worked at **Alibaba** as a **Data Scientist** from 2019 to 2023.
 
@@ -34,4 +34,4 @@ https://simpleicons.org/ -->
 <img src="https://github-readme-stats.vercel.app/api?username=wenhao728&theme=tokyonight&show_icons=true&hide=prs" href="Wenhao's GitHub stats"> -->
 
 ---
-Last Edited on: 26/05/2024
+Last Edited on: 19/12/2024
