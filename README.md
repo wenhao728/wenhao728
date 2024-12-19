@@ -6,13 +6,13 @@
 <!-- https://shields.io/badges/static-badge
 https://simpleicons.org/ -->
 <a  href="wenhao006@ntu.edu.sg">
-<img src="https://img.shields.io/badge/wenhao006@ntu.edu.sg-0078D4?&style=flat&logo=microsoftoutlook&logoColor=white"></a>
+<img src="https://img.shields.io/badge/wenhao006@ntu.edu.sg-0078D4?&style=flat&logo=maildotcom&logoColor=white"></a>
 <a  href="sunw728@gmail.com">
 <img src="https://img.shields.io/badge/sunw728@gmail.com-EA4335?&style=flat&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/wenhao-sun">
 <img src="https://img.shields.io/badge/Wenhao SUN-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"></a>
 <a href="https://wenhao.alphaxiv.io/">
-<img src="https://img.shields.io/badge/Website-FF4088?&style=flat&logo=googlechrome&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Website-30B980?&style=flat&logo=arxiv&logoColor=white"></a>
 <!-- <a href="https://wenhao728.github.io/">
 <img src="https://img.shields.io/badge/Website-FF4088?&style=flat&logo=googlechrome&logoColor=white"></a> -->
 <!-- <a  href="https://www.youtube.com/channel/">
