@@ -5,9 +5,9 @@
 <p align='center'>
 <!-- https://shields.io/badges/static-badge
 https://simpleicons.org/ -->
-<a  href="wenhao006@ntu.edu.sg">
+<a  href="mailto:wenhao006@ntu.edu.sg">
 <img src="https://img.shields.io/badge/wenhao006@ntu.edu.sg-0078D4?&style=flat&logo=maildotcom&logoColor=white"></a>
-<a  href="sunw728@gmail.com">
+<a  href="mailto:sunw728@gmail.com">
 <img src="https://img.shields.io/badge/sunw728@gmail.com-EA4335?&style=flat&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/wenhao-sun">
 <img src="https://img.shields.io/badge/Wenhao SUN-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"></a>
@@ -36,4 +36,4 @@ https://simpleicons.org/ -->
 <img src="https://github-readme-stats.vercel.app/api?username=wenhao728&theme=tokyonight&show_icons=true&hide=prs" href="Wenhao's GitHub stats"> -->
 
 ---
-Last Edited on: 19/12/2024
+Last Edited on: 30/12/2024
