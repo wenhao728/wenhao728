@@ -5,14 +5,14 @@
 <p align='center'>
 <!-- https://shields.io/badges/static-badge
 https://simpleicons.org/ -->
+<a href="https://www.linkedin.com/in/wenhao-sun">
+<img src="https://custom-icon-badges.demolab.com/badge/Wenhao SUN-0A66C2?logo=linkedin-white&logoColor=fff"></a>
+<a href="https://wenhao728.github.io/">
+<img src="https://img.shields.io/badge/Website-30B980?logo=GoogleChrome&logoColor=white"></a>
 <a  href="mailto:wenhao006@ntu.edu.sg">
 <img src="https://img.shields.io/badge/wenhao006@ntu.edu.sg-0078D4?&style=flat&logo=maildotcom&logoColor=white"></a>
-<a  href="mailto:sunw728@gmail.com">
-<img src="https://img.shields.io/badge/sunw728@gmail.com-EA4335?&style=flat&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/wenhao-sun">
-<img src="https://img.shields.io/badge/Wenhao SUN-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"></a>
-<a href="https://wenhao.alphaxiv.io/">
-<img src="https://img.shields.io/badge/Website-30B980?&style=flat&logo=arxiv&logoColor=white"></a>
+<!-- <a  href="mailto:sunw728@gmail.com"> -->
+<!-- <img src="https://img.shields.io/badge/sunw728@gmail.com-EA4335?&style=flat&logo=gmail&logoColor=white"></a> -->
 <!-- <a href="https://wenhao728.github.io/">
 <img src="https://img.shields.io/badge/Website-FF4088?&style=flat&logo=googlechrome&logoColor=white"></a> -->
 <!-- <a  href="https://www.youtube.com/channel/">
@@ -23,8 +23,8 @@ https://simpleicons.org/ -->
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
-- 🔭 I am currently a student at [**College of Computing and Data Science (CCDS)**](https://www.ntu.edu.sg/computing), NTU.
-- 🌱 I am currently working on **video generation** and **video editing**.
+- 🔭 I am currently a Ph.D. candidate at [**College of Computing and Data Science (CCDS)**](https://www.ntu.edu.sg/computing), NTU.
+- 🌱 I am currently working on **diffusion LM** and **video generation & editing**.
 - 📍 I worked at **Alibaba** as a **Data Scientist** from 2019 to 2023.
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> Prefered Tools
@@ -36,4 +36,4 @@ https://simpleicons.org/ -->
 <img src="https://github-readme-stats.vercel.app/api?username=wenhao728&theme=tokyonight&show_icons=true&hide=prs" href="Wenhao's GitHub stats"> -->
 
 ---
-Last Edited on: 30/12/2024
+Last Edited on: 09/02/2026
